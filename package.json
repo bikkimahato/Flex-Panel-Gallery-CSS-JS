@@ -1,0 +1,23 @@
+{
+  "name": "flex-panel-gallery-css-js",
+  "version": "1.0.0",
+  "description": "CSS Flex-Panel-Gallery powered by JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Flex-Panel-Gallery-CSS-JS.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Flex-Panel-Gallery-CSS-JS/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Flex-Panel-Gallery-CSS-JS#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
